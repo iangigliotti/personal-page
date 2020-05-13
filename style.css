@@ -1,0 +1,14 @@
+/* Write some CSS below */
+body {
+  background: #604BA8;
+}
+
+.contacts,
+.site-subtitle,
+.site-title {
+  color: white;
+}
+
+.contacts-list {
+  font-size: 45px;
+}
